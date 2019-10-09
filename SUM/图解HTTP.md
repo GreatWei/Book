@@ -4,7 +4,7 @@
 		1、发送端首先发送一个带SYN标志的数据包给对方。
 		2、接收端收到后，回传一个带有SYN/ACK标志的数据包以示传达确认信息。
 		3、最后，发送端再回传一个带有ACK标志的数据包，代表"握手"结束
-		！[](https://github.com/GreatWei/Book/blob/master/IMG/http/1-1.jpg)
+		![](https://github.com/GreatWei/Book/blob/master/IMG/http/1-1.jpg)
 
 # 第二章
 	## HTTP是不保存状态的协议
