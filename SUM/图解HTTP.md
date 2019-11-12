@@ -37,4 +37,26 @@
 		Range：bytes=50001-10000 
 		Range：bytes=50001-
 		Range：bytes=-3000,5000-7000 (从一开始到3000字节和5000-7000字节的多重范围)
+
+# 第四章
+	![](https://github.com/GreatWei/Book/blob/master/IMG/http/4-1.png)
 	
+# 第五章
+	通信数据转发程序 ： 代理、 网关、 隧道
+	
+# 第六章
+
+# 第七章
+	1、HTTPS 是身披 SSL 外壳的 HTTP
+		HTTP 直接和 TCP 通信。 当使用 SSL时， 则演变成先和 SSL通
+		信， 再由 SSL和 TCP 通信了。 简言之， 所谓 HTTPS， 其实就是身披
+		SSL协议这层外壳的 HTTP。
+	![](https://github.com/GreatWei/Book/blob/master/IMG/http/7-1.png)
+
+# 第八章
+	HTTP 使用的认证方式
+	HTTP/1.1 使用的认证方式如下所示。
+		BASIC 认证（ 基本认证）
+		DIGEST 认证（ 摘要认证）
+		SSL 客户端认证
+		FormBase 认证（ 基于表单认证）
